@@ -17,7 +17,7 @@ Do open up issues when you found some thing went wrong!
 
 
 # References
- This could not be achieve without the help of the repos below:
  https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example
  https://github.com/SJ-Wolf/Tensorflow-ARCore/tree/master/tensorflow/examples/android
+ https://github.com/eddywm/KTFLITE
 
